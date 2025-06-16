@@ -9,7 +9,7 @@ Welcome! This assignment simulates a real product feature at GroundAI. You’ll 
 Build a **simple web-based outreach generator** where a user can:
 
 1. Enter a lead (name, role, company)
-2. Generate a personalized LinkedIn DM using LLM(OpenAI, Claude etc.)
+2. Generate a personalized LinkedIn DM using OpenAI
 3. Save the message into a Supabase database
 4. View and manage leads in a table view
 
